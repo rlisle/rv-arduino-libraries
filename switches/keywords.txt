@@ -12,9 +12,9 @@ Switches	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-isSwitchOn   KEYWORD2
-setDelegate  KEYWORD2
-pollSwitches KEYWORD2
+isSwitchOn	KEYWORD2
+setDelegate	KEYWORD2
+pollSwitches	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
